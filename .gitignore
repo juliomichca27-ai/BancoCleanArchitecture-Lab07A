@@ -1,0 +1,13 @@
+# Compilacion
+/out/
+/build/
+/target/
+*.class
+
+# Configuracion local del IDE
+/.idea/
+*.iml
+
+# Datos generados en ejecucion (NO guardan la cuenta completa)
+/movimientos.txt
+/BancoInicial/movimientos.txt
