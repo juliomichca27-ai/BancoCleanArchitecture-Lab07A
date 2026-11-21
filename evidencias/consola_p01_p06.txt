@@ -1,0 +1,67 @@
+AVISO: movimientos.txt solo conserva el historial.
+La cuenta no se recupera automaticamente al reiniciar.
+
+=== SISTEMA BANCARIO | CLEAN ARCHITECTURE ===
+1. Registrar cuenta
+2. Depositar dinero
+3. Retirar dinero
+4. Consultar saldo
+5. Salir
+Seleccione una opcion: Ingrese titular: Ingrese saldo inicial: Cuenta registrada correctamente.
+
+=== SISTEMA BANCARIO | CLEAN ARCHITECTURE ===
+1. Registrar cuenta
+2. Depositar dinero
+3. Retirar dinero
+4. Consultar saldo
+5. Salir
+Seleccione una opcion: Monto a depositar: Deposito exitoso.
+
+=== SISTEMA BANCARIO | CLEAN ARCHITECTURE ===
+1. Registrar cuenta
+2. Depositar dinero
+3. Retirar dinero
+4. Consultar saldo
+5. Salir
+Seleccione una opcion: Monto a retirar: Retiro exitoso.
+
+=== SISTEMA BANCARIO | CLEAN ARCHITECTURE ===
+1. Registrar cuenta
+2. Depositar dinero
+3. Retirar dinero
+4. Consultar saldo
+5. Salir
+Seleccione una opcion: Monto a retirar: Operacion rechazada: Fondos insuficientes.
+
+=== SISTEMA BANCARIO | CLEAN ARCHITECTURE ===
+1. Registrar cuenta
+2. Depositar dinero
+3. Retirar dinero
+4. Consultar saldo
+5. Salir
+Seleccione una opcion: Monto a depositar: Operacion rechazada: El monto debe ser mayor que cero.
+
+=== SISTEMA BANCARIO | CLEAN ARCHITECTURE ===
+1. Registrar cuenta
+2. Depositar dinero
+3. Retirar dinero
+4. Consultar saldo
+5. Salir
+Seleccione una opcion: Ingrese titular: Ingrese saldo inicial: Operacion rechazada: Ya existe una cuenta activa a nombre de Ana. No se reemplazara.
+
+=== SISTEMA BANCARIO | CLEAN ARCHITECTURE ===
+1. Registrar cuenta
+2. Depositar dinero
+3. Retirar dinero
+4. Consultar saldo
+5. Salir
+Seleccione una opcion: Titular: Ana
+Saldo: S/ 1050.00
+
+=== SISTEMA BANCARIO | CLEAN ARCHITECTURE ===
+1. Registrar cuenta
+2. Depositar dinero
+3. Retirar dinero
+4. Consultar saldo
+5. Salir
+Seleccione una opcion: Saliendo del sistema...

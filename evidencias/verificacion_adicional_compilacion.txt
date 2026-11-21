@@ -1,0 +1,11 @@
+Compilación de código fuente con OpenJDK 21 y objetivo --release 17: correcta.
+Ejecución automatizada en entorno de preparación, no en computadora del estudiante:
+OK | P01: registra Ana y saldo 1000
+OK | P02: deposita 200, saldo 1200 y registro
+OK | P03: retira 150, saldo 1050 y registro
+OK | P04: retiro de 2000 rechazado, saldo intacto
+OK | P05: deposito de -10 rechazado, saldo intacto
+OK | P06: segunda cuenta rechazada, Ana permanece
+OK | P07: al iniciar otra vez no se restaura cuenta
+
+RESULTADO: 7/7 pruebas correctas.
