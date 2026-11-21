@@ -1,0 +1,18 @@
+AVISO: movimientos.txt solo conserva el historial.
+La cuenta no se recupera automaticamente al reiniciar.
+
+=== SISTEMA BANCARIO | CLEAN ARCHITECTURE ===
+1. Registrar cuenta
+2. Depositar dinero
+3. Retirar dinero
+4. Consultar saldo
+5. Salir
+Seleccione una opcion: Operacion rechazada: No hay una cuenta activa. Registre una primero.
+
+=== SISTEMA BANCARIO | CLEAN ARCHITECTURE ===
+1. Registrar cuenta
+2. Depositar dinero
+3. Retirar dinero
+4. Consultar saldo
+5. Salir
+Seleccione una opcion: Saliendo del sistema...
